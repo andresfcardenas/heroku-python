@@ -1,0 +1,37 @@
+dj-database-url==0.3.0
+dj-static==0.0.6
+Django==1.8.3
+django-toolbelt==0.0.1
+gunicorn==19.3.0
+psycopg2==2.6.1
+static3==0.6.1
+wheel==0.24.0
+pillow==2.7.0
+djangorestframework==3.2.1
+django-rest-swagger==0.3.3
+django-push-notifications==1.3.1
+django-extensions==1.5.5
+sorl-thumbnail==11.12.1b
+django-debug-toolbar==1.3.2
+stripe==1.24.1
+django-constance[redis]==1.0.1
+redis==2.10.3
+hiredis==0.2.0
+django-redis-cache==1.6.0
+Werkzeug==0.10.4
+celery==3.1.18
+django-celery==3.1.16
+django-celery-transactions==0.3.2
+django-cors-headers==1.1.0
+django-localflavor==1.1
+drf_cached_instances==0.3.1
+django-storages==1.1.8
+boto==2.38.0
+raven==5.5.0
+whitenoise==2.0.3
+mock==1.3.0
+tablib==0.10.0
+fabric==1.10.2
+git+https://github.com/django-admin-bootstrap/django-admin-bootstrap
+-e git+https://github.com/julian-amaya/django-decorators.git@f4eeac47430cc8ce791e86077bd38d1508e505b0#egg=django_decorators-master
+-e git+https://github.com/bradwhittington/django-templated-email.git@b993f2d3562fca490dc19a2607dc4e3ea6878917#egg=django_templated_email-master
